@@ -1,0 +1,12 @@
+button[type="submit"]{
+  background-color: #9eda50;
+  border: none;
+  color: #000;
+}
+.footer ul li a{
+  text-align: center;
+  box-sizing: border-box;
+  width: 11ch;
+  text-align: center;
+}
+

@@ -1,0 +1,18 @@
+.btn {
+  background-color: #9eda50;
+  border: none;
+  width: 49%; 
+}
+.borrarBtn{
+  margin-right: 2%;
+}
+.bg-lightBlue{
+  background-color: #a6dcfd;
+}
+
+
+@media screen and (min-width:940px){
+  .main{
+    height: calc(100vh - 80px - 120px);
+  }
+}
